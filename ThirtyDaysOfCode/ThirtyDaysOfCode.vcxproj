@@ -127,6 +127,7 @@
     <ClCompile Include="Day_2_Challenge.cpp" />
     <ClCompile Include="Day_3_Challenge.cpp" />
     <ClCompile Include="Day_4_Challenge.cpp" />
+    <ClCompile Include="Day_5_Challenge.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="Person.cpp" />
   </ItemGroup>
@@ -136,6 +137,7 @@
     <ClInclude Include="Day_2_Challenge.h" />
     <ClInclude Include="Day_3_Challenge.h" />
     <ClInclude Include="Day_4_Challenge.h" />
+    <ClInclude Include="Day_5_Challenge.h" />
     <ClInclude Include="Person.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
