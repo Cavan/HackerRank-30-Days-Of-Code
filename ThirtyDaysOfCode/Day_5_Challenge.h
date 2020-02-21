@@ -1,5 +1,6 @@
 #pragma once
-#include "common.h";
+
+#include "common.h"
 
 
 void Day_5_Challenge();

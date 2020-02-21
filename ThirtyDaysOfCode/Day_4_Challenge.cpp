@@ -1,5 +1,5 @@
 #include "Day_4_Challenge.h"
-#include "Person.h";
+#include "Person.h"
 
 void Day_4_Challenge() {
 	int t;
