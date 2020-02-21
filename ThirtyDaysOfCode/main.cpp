@@ -7,6 +7,9 @@
 #include "Day_3_Challenge.h";
 #include "Day_4_Challenge.h";
 #include "Day_5_Challenge.h";
+#include "Day_6_Challenge.h";
+
+
 
 int main()
 {
@@ -23,9 +26,24 @@ int main()
 	//Day_4_Challenge();
 
 	//Run day 5 solution
-	Day_5_Challenge();
+	//Day_5_Challenge();
 
 	//Run day 6 solution
+	Day_6_Challenge();
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 	return 0;
 }
