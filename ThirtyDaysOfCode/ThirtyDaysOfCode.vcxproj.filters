@@ -60,6 +60,9 @@
     <ClCompile Include="Day_13_Challenge.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Day_14_Challenge.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Day_1_Challenge.h">
