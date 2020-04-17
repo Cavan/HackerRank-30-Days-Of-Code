@@ -13,6 +13,7 @@
 #include "Day_9_Challenge.h"
 #include "Day_10_Challenge.h"
 #include "Day_11_Challenge.h"
+#include "Day_12_Challenge.h"
 
 
 
@@ -51,10 +52,10 @@ int main()
 	//**Day_10_Challenge();
 	
 	//Run day 11 solution
-	Day_11_Challenge();
+	//Day_11_Challenge();
 
 	//Run day 12 solution
-
+	Day_12_Challenge();
 
 
 
