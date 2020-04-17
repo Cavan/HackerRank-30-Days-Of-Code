@@ -14,6 +14,7 @@
 #include "Day_10_Challenge.h"
 #include "Day_11_Challenge.h"
 #include "Day_12_Challenge.h"
+#include "Day_13_Challenge.h"
 
 
 
@@ -55,7 +56,10 @@ int main()
 	//Day_11_Challenge();
 
 	//Run day 12 solution
-	Day_12_Challenge();
+	//Day_12_Challenge();
+
+	//Run day 13 solution
+	Day_13_Challenge();
 
 
 
