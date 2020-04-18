@@ -9,6 +9,9 @@
 #include <sstream>
 #include <fstream>
 #include <list>
+#include <cmath>
+#include <exception>
+#include <stdexcept>
 
 
 

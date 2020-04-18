@@ -130,7 +130,12 @@
     <ClCompile Include="Day_14_Challenge.cpp" />
     <ClCompile Include="Day_15_Challenge.cpp" />
     <ClCompile Include="Day_16_Challenge.cpp" />
+    <ClCompile Include="Day_17_Challenge.cpp" />
+    <ClCompile Include="Day_18_Challenge.cpp" />
+    <ClCompile Include="Day_19_Challenge.cpp" />
     <ClCompile Include="Day_1_Challenge.cpp" />
+    <ClCompile Include="Day_20_Challenge.cpp" />
+    <ClCompile Include="Day_21_Challenge.cpp" />
     <ClCompile Include="Day_2_Challenge.cpp" />
     <ClCompile Include="Day_3_Challenge.cpp" />
     <ClCompile Include="Day_4_Challenge.cpp" />
@@ -151,7 +156,12 @@
     <ClInclude Include="Day_14_Challenge.h" />
     <ClInclude Include="Day_15_Challenge.h" />
     <ClInclude Include="Day_16_Challenge.h" />
+    <ClInclude Include="Day_17_Challenge.h" />
+    <ClInclude Include="Day_18_Challenge.h" />
+    <ClInclude Include="Day_19_Challenge.h" />
     <ClInclude Include="Day_1_Challenge.h" />
+    <ClInclude Include="Day_20_Challenge.h" />
+    <ClInclude Include="Day_21_Challenge.h" />
     <ClInclude Include="Day_2_Challenge.h" />
     <ClInclude Include="Day_3_Challenge.h" />
     <ClInclude Include="Day_4_Challenge.h" />
