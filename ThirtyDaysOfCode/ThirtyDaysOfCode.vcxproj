@@ -129,6 +129,7 @@
     <ClCompile Include="Day_13_Challenge.cpp" />
     <ClCompile Include="Day_14_Challenge.cpp" />
     <ClCompile Include="Day_15_Challenge.cpp" />
+    <ClCompile Include="Day_16_Challenge.cpp" />
     <ClCompile Include="Day_1_Challenge.cpp" />
     <ClCompile Include="Day_2_Challenge.cpp" />
     <ClCompile Include="Day_3_Challenge.cpp" />
