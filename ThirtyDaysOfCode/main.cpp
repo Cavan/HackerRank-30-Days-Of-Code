@@ -20,6 +20,7 @@
 #include "Day_16_Challenge.h"
 #include "Day_17_Challenge.h"
 #include "Day_18_Challenge.h"
+#include "Day_19_Challenge.h"
 
 
 
@@ -78,10 +79,10 @@ int main()
 	//Day_17_Challenge();
 
 	//Run day 18 solution
-	Day_18_Challenge();
+	//Day_18_Challenge();
 
 	//Run day 19 solution
-	//Day_19_Challenge();
+	Day_19_Challenge();
 
 	//Run day 20 solution
 	//Day_20_Challenge();
