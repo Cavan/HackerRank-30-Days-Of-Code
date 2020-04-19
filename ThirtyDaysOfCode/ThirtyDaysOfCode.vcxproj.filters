@@ -84,6 +84,30 @@
     <ClCompile Include="Day_21_Challenge.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Day_22_Challenge.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Day_23_Challenge.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Day_24_Challenge.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Day_25_Challenge.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Day_26_Challenge.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Day_27_Challenge.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Day_28_Challenge.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Day_29_Challenge.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Day_1_Challenge.h">
@@ -153,6 +177,30 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="Day_21_Challenge.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Day_22_Challenge.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Day_23_Challenge.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Day_24_Challenge.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Day_25_Challenge.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Day_26_Challenge.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Day_27_Challenge.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Day_28_Challenge.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Day_29_Challenge.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
