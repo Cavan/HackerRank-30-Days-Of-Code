@@ -21,7 +21,6 @@ class pCalculator : public pAdvancedArithmetic {
 				}
 			}
 	}
-	cout << "Divisors for " << n << endl;
 	while (!m_divisorSum.empty()) {
 		retSum += m_divisorSum.back();
 		m_divisorSum.pop_back();
