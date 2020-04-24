@@ -23,7 +23,8 @@
 //#include "Day_19_Challenge.h"
 //#include "Day_20_Challenge.h"
 //#include "Day_21_Challenge.h"
-#include "Day_22_Challenge.h"
+//#include "Day_22_Challenge.h"
+#include "Day_23_Challenge.h"
 
 
 
@@ -93,10 +94,10 @@ int main(void)
 	//Day_21_Challenge();
 
 	//Run day 22 solution
-	Day_22_Challenge();
+	//Day_22_Challenge();
 
 	//Run day 23 solution
-	//Day_23_Challenge();
+	Day_23_Challenge();
 
 	//Run day 24 solution
 	//Day_24_Challenge();
