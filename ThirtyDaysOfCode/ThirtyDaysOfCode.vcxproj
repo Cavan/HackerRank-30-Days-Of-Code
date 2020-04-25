@@ -123,6 +123,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Big_O_Notation.cpp" />
     <ClCompile Include="Day_10_Challenge.cpp" />
     <ClCompile Include="Day_11_Challenge.cpp" />
     <ClCompile Include="Day_12_Challenge.cpp" />
@@ -156,6 +157,7 @@
     <ClCompile Include="Person.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Big_O_Notation.h" />
     <ClInclude Include="common.h" />
     <ClInclude Include="Day_10_Challenge.h" />
     <ClInclude Include="Day_11_Challenge.h" />

@@ -108,6 +108,9 @@
     <ClCompile Include="Day_29_Challenge.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Big_O_Notation.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Day_1_Challenge.h">
@@ -201,6 +204,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="Day_29_Challenge.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Big_O_Notation.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
