@@ -69,6 +69,8 @@ void max_possible_value(int n, int k)
 			if ((result > temp) && (result < k))
 			{
 				temp = result;
+
+
 			}
 		}
 	}
