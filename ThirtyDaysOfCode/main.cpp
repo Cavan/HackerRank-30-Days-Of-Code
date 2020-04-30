@@ -30,7 +30,11 @@
 //#include "Day_25_Challenge.h"
 //#include "Day_26_Challenge.h"
 //#include "Day_27_Challenge.h"
-#include "Day_28_Challenge.h"
+//#include "Day_28_Challenge.h"
+#include "Day_29_Challenge.h"
+
+
+
 
 
 int main(void)
@@ -120,10 +124,10 @@ int main(void)
 	//Day_27_Challenge();
 
 	//Run day 28 solution
-	Day_28_Challenge();
+	//Day_28_Challenge();
 
 	//Run day 29 solution
-	//Day_29_Challenge();
+	Day_29_Challenge();
 
 
 	return 0;
