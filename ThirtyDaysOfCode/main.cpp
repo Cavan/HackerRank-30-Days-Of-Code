@@ -29,7 +29,8 @@
 //#include "Big_O_Notation.h"
 //#include "Day_25_Challenge.h"
 //#include "Day_26_Challenge.h"
-#include "Day_27_Challenge.h"
+//#include "Day_27_Challenge.h"
+#include "Day_28_Challenge.h"
 
 
 int main(void)
@@ -116,10 +117,10 @@ int main(void)
 	//Day_26_Challenge();
 
 	//Run day 27 solution
-	Day_27_Challenge();
+	//Day_27_Challenge();
 
 	//Run day 28 solution
-	//Day_28_Challenge();
+	Day_28_Challenge();
 
 	//Run day 29 solution
 	//Day_29_Challenge();

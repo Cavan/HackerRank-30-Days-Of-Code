@@ -150,7 +150,6 @@
     <ClCompile Include="Day_4_Challenge.cpp" />
     <ClCompile Include="Day_5_Challenge.cpp" />
     <ClCompile Include="Day_6_Challenge.cpp" />
-    <ClCompile Include="Day_7_Challenge.cpp" />
     <ClCompile Include="Day_8_Challenge.cpp" />
     <ClCompile Include="Day_9_Challenge.cpp" />
     <ClCompile Include="main.cpp" />
@@ -185,7 +184,6 @@
     <ClInclude Include="Day_4_Challenge.h" />
     <ClInclude Include="Day_5_Challenge.h" />
     <ClInclude Include="Day_6_Challenge.h" />
-    <ClInclude Include="Day_7_Challenge.h" />
     <ClInclude Include="Day_8_Challenge.h" />
     <ClInclude Include="Day_9_Challenge.h" />
     <ClInclude Include="Person.h" />
